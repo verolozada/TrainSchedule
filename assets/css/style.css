@@ -1,0 +1,21 @@
+.jumbotron {
+  background: rgba(5, 56, 165, 0.815);
+  color: white;
+}
+
+body{
+    background: url('../images/backgroundTrain.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#train{
+    font-family: "Basic"
+}
+
+#description{
+    font-family: "Unica One";
+    font-size: 1.5em;
+}
