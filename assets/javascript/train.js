@@ -65,7 +65,7 @@ $(document).ready( function (){
     // button.text("X")
 
     // add information to the table
-    $("#train-table").append("<tr><td>" + trainName + "</td><td>" + trainDest + "</td><td>" + trainFreq + "</td><td>" + nextTrain +"</td><td>" + minToArr + "</td>");
+    $("#train-table").append("<tr><td>" + trainName + "</td><td>" + trainDest + "</td><td>" + trainFreq + "</td><td>" + nextTrain +"</td><td>" + minToArr + "</td><td><button>" +"x"+ "</button></td>");
   });
 
 });
