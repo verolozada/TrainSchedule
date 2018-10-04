@@ -60,12 +60,10 @@ $(document).ready( function (){
     // next train
     const nextTrain = moment().add(minToArr, "m").format("hh:mm A"); 
 
-    // const button = $("<button>")
-    // button.addClass("btn")
-    // button.text("X")
-
     // add information to the table
-    $("#train-table").append("<tr><td>" + trainName + "</td><td>" + trainDest + "</td><td>" + trainFreq + "</td><td>" + nextTrain +"</td><td>" + minToArr + "</td><td><button>" +"x"+ "</button></td>");
+    $("#train-table").append("<tr><td>" + trainName + "</td><td>" + trainDest + "</td><td>" + trainFreq + "</td><td>" + nextTrain +"</td><td>" + minToArr + "</td>");
   });
+
+
 
 });

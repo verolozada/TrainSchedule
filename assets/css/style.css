@@ -19,14 +19,15 @@ body{
     font-family: "Unica One";
     font-size: 1.5em;
 }
-
+/* 
 button{
     background: white;
     border-color: blue;
     border-radius: 10px;
     text-align: center;
-}
+} */
 
 td, th{
     text-align: center;
 }
+
