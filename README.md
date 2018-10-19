@@ -3,8 +3,7 @@
 
 ### Find the solution in here! Just look for your train or even add your own train.
 
-![Train Screenshot](/images/train.png)
-Format: ![Alt Text](url)
+![alt text](images/train.png)
 
 
 
