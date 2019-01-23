@@ -2,14 +2,14 @@
 
 Real time update web site to calculate when your train is coming, just enter the name, destination, time and frequency to calculate the estimated time for arrival. 
 
-##Prerequisites
+## Prerequisites
 
 `npm install`
 
-##Run the application
+## Run the application
 [Train Schedule](https://trainschedule-app.herokuapp.com/)
 
-##Built with
+## Built with
 - HTML.
 - Firebase
 - Node.js
