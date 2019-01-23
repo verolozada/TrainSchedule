@@ -4,9 +4,7 @@ Real time update web site to calculate when your train is coming, just enter the
 
 ##Prerequisites
 
-`
-npm install
-`
+`npm install`
 
 ##Run the application
 [Train Schedule](https://trainschedule-app.herokuapp.com/)
